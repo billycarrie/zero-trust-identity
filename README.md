@@ -15,7 +15,6 @@
 | Conditional Access Design | Policy framework, named locations, device compliance integration | 📋 Planned |
 | Break-Glass Strategy | Emergency access accounts — design, protection, monitoring | 📋 Planned |
 | PIM Configuration | Just-in-time access, activation requirements, approval workflows | 📋 Planned |
-| MFA Deployment Guide | Authentication methods, registration campaign, exclusion strategy | 📋 Planned |
 | Exclusion Management | How to manage CA exclusions without creating governance gaps | 📋 Planned |
 | Identity Risk Policies | ID Protection — sign-in risk, user risk, remediation flows | 📋 Planned |
 
