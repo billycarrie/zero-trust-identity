@@ -36,7 +36,7 @@ zero-trust-identity/
 
 ## **Core Principle**
 
-Zero Trust is not a product — it is a strategy. Identity is the control plane. Every policy, configuration, and automation in this repo is designed around one principle: **never trust, always verify** — with explicit verification, least privilege access, and assumed breach as the baseline.
+Zero Trust is not a product, it is a strategy. Identity is the control plane. Every policy, configuration, and automation in this repo is designed around one principle: **never trust, always verify** — with explicit verification, least privilege access, and assumed breach as the baseline.
 
 ---
 
