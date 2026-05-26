@@ -6,13 +6,13 @@
 
 ## **What This Covers**
 
-| Area | Description |
-|---|---
-| Conditional Access Design | Policy framework, named locations, device compliance integration |
-| Break-Glass Strategy | Emergency access accounts — design, protection, monitoring |
-| PIM Configuration | Just-in-time access, activation requirements, approval workflows | 
-| Exclusion Management | How to manage CA exclusions without creating governance gaps |
-| Identity Risk Policies | ID Protection — sign-in risk, user risk, remediation flows |
+| Area | Description | Status |
+|---|---|---|
+| [**Conditional Access Design**](docs/conditional-access-design.md) | Policy framework, named locations, device compliance integration | ✅ Complete |
+| [**Break-Glass Strategy**](docs/break-glass-strategy.md) | Emergency access accounts — design, protection, monitoring | ✅ Complete |
+| [**PIM Configuration**](docs/pim-configuration-guide.md) | Just-in-time access, activation requirements, approval workflows | ✅ Complete |
+| [**Exclusion Management**](docs/exclusion-management.md) | How to manage CA exclusions without creating governance gaps | ✅ Complete |
+| [**Identity Risk Policies**](docs/identity-risk-policies.md) | ID Protection — sign-in risk, user risk, remediation flows | ✅ Complete |
 
 ---
 
