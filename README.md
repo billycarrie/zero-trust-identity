@@ -2,21 +2,17 @@
 
 > Conditional Access policies, PIM configurations, and identity-focused Zero Trust architecture designed and documented in a live Microsoft Entra ID P2 sandbox.
 
-## **Status**
-
-📋 **Planned** — sandbox configurations complete, documentation in queue after `entra-id-playbook`.
-
 ---
 
 ## **What This Covers**
 
 | Area | Description | Status |
 |---|---|---|
-| Conditional Access Design | Policy framework, named locations, device compliance integration | 📋 Planned |
-| Break-Glass Strategy | Emergency access accounts — design, protection, monitoring | 📋 Planned |
-| PIM Configuration | Just-in-time access, activation requirements, approval workflows | 📋 Planned |
-| Exclusion Management | How to manage CA exclusions without creating governance gaps | 📋 Planned |
-| Identity Risk Policies | ID Protection — sign-in risk, user risk, remediation flows | 📋 Planned |
+| Conditional Access Design | Policy framework, named locations, device compliance integration |
+| Break-Glass Strategy | Emergency access accounts — design, protection, monitoring |
+| PIM Configuration | Just-in-time access, activation requirements, approval workflows | 
+| Exclusion Management | How to manage CA exclusions without creating governance gaps |
+| Identity Risk Policies | ID Protection — sign-in risk, user risk, remediation flows |
 
 ---
 
@@ -33,11 +29,8 @@ zero-trust-identity/
 │   ├── pim-configuration-guide.md
 │   ├── mfa-deployment-guide.md
 │   ├── exclusion-management.md
-│   └── identity-risk-policies.md
-│
-└── templates/
-    ├── ca-policy-templates.json
-    └── pim-role-settings.json
+    └── identity-risk-policies.md
+└── 
 ```
 
 ---
@@ -50,7 +43,7 @@ Zero Trust is not a product — it is a strategy. Identity is the control plane.
 
 ## **SMB Context**
 
-Built in a live Entra ID P2 sandbox simulating **Carrie Cares** — a ~200 employee retail/ecommerce company. Configurations reflect the reality of organizations encountered in M&A work — limited IT resources, inconsistent baseline controls, and the need to build Zero Trust incrementally without disrupting operations.
+Built in a live Entra ID P2 sandbox simulating **Carrie Cares** — Configurations reflect the reality of organizations encountered in M&A work — limited IT resources, inconsistent baseline controls, and the need to build Zero Trust incrementally without disrupting operations.
 
 ---
 
@@ -62,7 +55,7 @@ Built in a live Entra ID P2 sandbox simulating **Carrie Cares** — a ~200 emplo
 | [entra-id-playbook](https://github.com/billycarrie/entra-id-playbook) | Entra ID operational runbooks | 🚧 In progress |
 | [powershell-iam-toolkit](https://github.com/billycarrie/powershell-iam-toolkit) | IAM automation scripts | 📋 Planned |
 | [iam-program-framework](https://github.com/billycarrie/iam-program-framework) | IAM program design templates | 📋 Planned |
-| [zero-trust-identity](https://github.com/billycarrie/zero-trust-identity) | Zero Trust identity architecture | 📋 Planned |
+| [zero-trust-identity](https://github.com/billycarrie/zero-trust-identity) | Zero Trust identity architecture | ✅ Complete |
 
 ---
 
