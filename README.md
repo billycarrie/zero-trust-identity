@@ -6,7 +6,7 @@
 
 ## **What This Covers**
 
-| Area | Description | Status |
+| Area | Description |
 |---|---|---|
 | Conditional Access Design | Policy framework, named locations, device compliance integration |
 | Break-Glass Strategy | Emergency access accounts — design, protection, monitoring |
