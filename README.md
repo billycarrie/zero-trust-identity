@@ -42,7 +42,7 @@ Zero Trust is not a product, it is a strategy. Identity is the control plane. Ev
 
 ## **SMB Context**
 
-Built in a live Entra ID P2 sandbox simulating **Carrie Cares** — Configurations reflect the reality of organizations encountered in M&A work — limited IT resources, inconsistent baseline controls, and the need to build Zero Trust incrementally without disrupting operations.
+Built in a live Entra ID P2 sandbox simulating **Carrie Cares**; Configurations reflect the reality of organizations encountered in M&A work; limited IT resources, inconsistent baseline controls, and the need to build Zero Trust incrementally without disrupting operations.
 
 ---
 
