@@ -27,7 +27,6 @@ zero-trust-identity/
 │   ├── conditional-access-design.md
 │   ├── break-glass-strategy.md
 │   ├── pim-configuration-guide.md
-│   ├── mfa-deployment-guide.md
 │   ├── exclusion-management.md
     └── identity-risk-policies.md
 └── 
