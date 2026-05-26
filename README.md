@@ -7,7 +7,7 @@
 ## **What This Covers**
 
 | Area | Description |
-|---|---|---|
+|---|---
 | Conditional Access Design | Policy framework, named locations, device compliance integration |
 | Break-Glass Strategy | Emergency access accounts — design, protection, monitoring |
 | PIM Configuration | Just-in-time access, activation requirements, approval workflows | 
